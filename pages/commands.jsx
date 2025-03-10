@@ -9,7 +9,7 @@ const commands = [
   "+loop",
   "+nowplaying",
   "+pause",
-  "/+ping",
+  "+ping",
   "+play",
   "+queue",
   "+resume",
@@ -32,7 +32,7 @@ const commands = [
          Bot Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the MusicMaker Bot.
+        You can get information about the commands of the Nebula Beatz Bot.
         </p>
 
         <div>
@@ -81,7 +81,7 @@ const commands = [
   
   <Link href={"https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite MusicMaker</a>
+Invite Nebula Beatz</a>
   </Link>
 
   <div className="py-10"></div>
